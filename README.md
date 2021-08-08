@@ -1,1 +1,1 @@
-# Assignments-for-day1-of-Master-Data-Structure-and-Algorithms-with-C-
+# Assignments-of-Master-Data-Structure-and-Algorithms-with-C-
